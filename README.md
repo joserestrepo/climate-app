@@ -9,7 +9,7 @@ Asegúrate de tener instalado Node.js en tu sistema. Puedes descargarlo aquí.
 ### Paso 1: Clonar el Repositorio
 
 ```bash
-git clone https://github.com/joserestrepo/movies-plus.git
+git clone https://github.com/joserestrepo/climate-app.git
 cd climate-app
 ```
 
@@ -25,7 +25,7 @@ npm install
 npm run dev
 ```
 
-Este comando iniciará el servidor de desarrollo Vite y abrirá la aplicación en tu navegador predeterminado. Puedes acceder a la aplicación en http://localhost:5173/login.
+Este comando iniciará el servidor de desarrollo Nextjs y abrirá la aplicación en tu navegador predeterminado. Puedes acceder a la aplicación en http://localhost:3000.
 
 ## Levantar con Docker
 
